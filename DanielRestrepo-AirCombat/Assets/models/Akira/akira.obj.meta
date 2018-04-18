@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 6a00d10a06f8d43f0a7598449e3d118e
+timeCreated: 1523541422
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: default
+    400000: //RootNode
+    400002: default
+    2100000: akwhite_akwhite.jpg
+    2100002: ak1_aktail13
+    2100004: ak1_aktop3.jpg
+    2100006: ak1_aktail9
+    2100008: ak1_aktop4
+    2100010: Material.002_aklines.jpg
+    2100012: ak1_aktail8
+    2100014: ak1_aktail8_1
+    2100016: ak1_aktail1
+    2100018: akblack_akblack.jpg
+    2100020: akyellow_akyellow.jpg
+    2100022: akdef1
+    2100024: aldef2_akdeflector2
+    2100026: ak1_akblack.jpg
+    2100028: ak1_aktail7.jpg
+    2100030: ak1_aktop1
+    2100032: ak1_akimage01.jpg
+    2100034: ak1_akgrey1.jpg
+    2100036: ak1_aktop5
+    2100038: ak1_aktop1.jpg
+    2100040: ak1_aklines1.jpg
+    2100042: ak1.001_aktail1.001
+    2100044: akyellow.001_akyellow.jpg.001
+    2100046: akblack.001_akblack.jpg.001
+    2100048: ak1_aktail2
+    2100050: ak1_aktail12.jpg
+    2100052: Material.003_aktop8.jpg
+    2100054: ak1_akdoors.jpg
+    2100056: ak1_aktail11
+    2100058: ak1_akbottom2
+    2100060: ak1_akgrey.jpg
+    2100062: Material.001_akred.jpg
+    2100064: Material.001_aktail10.jpg
+    2100066: ak1_aktail9_1
+    2100068: ak1_aktail9_2.jpg
+    2100070: ak1_aktail9_3.jpg
+    2100072: ak1_aktail9_4.jpg
+    2100074: ak1_aklines.jpg
+    2100076: ak1_aktail10.jpg
+    2100078: Material_akblue.jpg
+    2100080: akblack_akgrey1.jpg
+    2100082: ak1_aktop7.jpg
+    2100084: akdef1_akdeflector1
+    2100086: ak1_aktail3_1.jpg
+    2100088: ak1_aktail
+    2100090: aktail3_aktail3.jpg
+    2100092: ak1_aktop1_1
+    2100094: ak1_aktop2.002
+    2100096: ak1_akyellow.jpg
+    2100098: ak1_akbottom1.jpg
+    2100100: ak1.001_aktail2.001
+    2100102: ak1.001_aktail3_1.jpg.001
+    2100104: ak1.001_aktop1.001
+    2100106: ak1.001_akgrey1.jpg.001
+    2100108: ak1.001_aktail.001
+    2100110: ak1.001_aktail1_1.jpg
+    2100112: aktail3.001_aktail3.jpg.001
+    2100114: akblack.001_akgrey1.jpg.001
+    2100116: akwhite.001_akwhite.jpg.001
+    2100118: aldef2.001_akdeflector2.001
+    2300000: default
+    3300000: default
+    4300000: default
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
